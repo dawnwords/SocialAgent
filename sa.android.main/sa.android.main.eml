@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_6" inherit-compiler-output="true" jdk="Android API 19 Platform" jdk_type="Android SDK">
+	<output-test url="file://$MODULE_DIR$/../out/test/sa.android.main"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="JadeLeapAndroid" value="project"/>
+		<level name="android-support-v4" value="project"/>
+		<level name="packagescanner078.jar" value="project"/>
+		<level name="felix" value="project"/>
+		<level name="felix-metatype-1.0" value="project"/>
+		<level name="felix-log-1.0" value="project"/>
+		<level name="felix-fileinstall-3.2" value="project"/>
+		<level name="felix-dependencymanager-3.1" value="project"/>
+		<level name="felix-eventadmin-1.3" value="project"/>
+		<level name="felix-configadmin-1.8" value="project"/>
+		<level name="felix-prefs-1.0.6" value="project"/>
+	</levels>
+</component>

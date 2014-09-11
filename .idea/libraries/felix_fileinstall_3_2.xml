@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="felix-fileinstall-3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Dependence/felix/felix-fileinstall-3.2.6/org.apache.felix.fileinstall-3.2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Dependence/felix/felix-fileinstall-3.2.6/org.apache.felix.fileinstall-3.2.6-source-release.zip!/org.apache.felix.fileinstall-3.2.6/src/main/java" />
+      <root url="jar://$USER_HOME$/Dependence/felix/felix-fileinstall-3.2.6/org.apache.felix.fileinstall-3.2.6.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="JadeLeapAndroid">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Dependence/jade/jade4android/lib/JadeAndroid.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Dependence/jade/jade4android/doc" />
+      <root url="file://$USER_HOME$/Dependence/jade/doc/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Dependence/jade/jade4android/src" />
+      <root url="file://$USER_HOME$/Dependence/jade/src" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="felix-metatype-1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Dependence/felix/felix-metatype-1.0.10/org.apache.felix.metatype-1.0.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Dependence/felix/felix-metatype-1.0.10/org.apache.felix.metatype-1.0.10-source-release.zip!/org.apache.felix.metatype-1.0.10/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

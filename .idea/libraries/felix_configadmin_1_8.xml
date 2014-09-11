@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="felix-configadmin-1.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Dependence/felix/felix-configadmin-1.8.0/org.apache.felix.configadmin-1.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Dependence/felix/felix-configadmin-1.8.0/org.apache.felix.configadmin-1.8.0-source-release.zip!/org.apache.felix.configadmin-1.8.0/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

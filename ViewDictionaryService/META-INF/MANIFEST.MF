@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-Name: English dictionary
+Bundle-Description: A context that registers an English dictionary service
+Bundle-DocURL: http://felix.apache.org/site/apache-felix-ipojo.html
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-ManifestVersion: 2
+Bundle-Vendor: Apache Felix
+Bundle-Version: 1.0.0
+Bundle-Name: Fudan View Dictionary Service
+Bundle-SymbolicName: edu.fudan.sa.viewdictionaryservice;singleton:=true
+Bundle-Activator: edu.fudan.sa.example.impl.ViewDictionaryServiceActivator
+Export-Package: edu.fudan.sa.example
+Import-Package: org.osgi.framework,edu.fudan.sa,android.text,android.content,android.app,android.view,android.os
+Private-Package: edu.fudan.sa.example.impl

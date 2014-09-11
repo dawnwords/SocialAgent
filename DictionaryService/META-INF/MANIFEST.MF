@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-Name: English dictionary
+Bundle-Description: A bundle that registers an English dictionary service
+Bundle-DocURL: http://felix.apache.org/site/apache-felix-ipojo.html
+Bundle-ManifestVersion: 2
+Bundle-Vendor: Apache Felix
+Bundle-Version: 1.0.0
+Bundle-Name: Fudan Dictionary Service
+Bundle-SymbolicName: edu.fudan.sa.dictionaryservice;singleton:=true
+Bundle-Activator: edu.fudan.sa.example.impl.DictionaryServiceActivator
+Export-Package: edu.fudan.sa.example
+Import-Package: org.osgi.framework,edu.fudan.sa
+Private-Package: edu.fudan.sa.example.impl

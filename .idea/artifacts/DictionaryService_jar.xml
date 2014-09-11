@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DictionaryService:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <root id="archive" name="dictionaryservice.jar">
+      <element id="module-output" name="DictionaryService" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/DictionaryService/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

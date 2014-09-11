@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="felix">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Dependence/felix/felix-framework-4.2.1/bin/felix.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Dependence/felix/felix-framework-4.2.1/javadoc/osgi.core.javadoc-4.3.0.zip!/core" />
+      <root url="jar://$USER_HOME$/Dependence/felix/felix-framework-4.2.1/javadoc/osgi.cmpn.javadoc-4.3.0.zip!/cmpn" />
+      <root url="jar://$USER_HOME$/Dependence/felix/felix-framework-4.2.1/javadoc/osgi.residential.javadoc-4.3.0.zip!/residential" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

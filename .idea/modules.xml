@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ViewDictionaryService/ViewDictionaryService.iml" filepath="$PROJECT_DIR$/ViewDictionaryService/ViewDictionaryService.iml" group="SocialAgent/examples" />
+      <module fileurl="file://$PROJECT_DIR$/sa/sa.iml" filepath="$PROJECT_DIR$/sa/sa.iml" group="SocialAgent/framework" />
+      <module fileurl="file://$PROJECT_DIR$/sa.android.main/sa.android.main.iml" filepath="$PROJECT_DIR$/sa.android.main/sa.android.main.iml" group="SocialAgent/framework" />
+      <module fileurl="file://$PROJECT_DIR$/sa.circle.jade/sa.circle.jade.iml" filepath="$PROJECT_DIR$/sa.circle.jade/sa.circle.jade.iml" group="SocialAgent/framework" />
+      <module fileurl="file://$PROJECT_DIR$/sa.circle.local/sa.circle.local.iml" filepath="$PROJECT_DIR$/sa.circle.local/sa.circle.local.iml" group="SocialAgent/framework" />
+      <module fileurl="file://$PROJECT_DIR$/sa.circle.xjade/sa.circle.xjade.iml" filepath="$PROJECT_DIR$/sa.circle.xjade/sa.circle.xjade.iml" group="SocialAgent/framework" />
+      <module fileurl="file://$PROJECT_DIR$/sa.jade.android.demo/sa.jade.android.demo.iml" filepath="$PROJECT_DIR$/sa.jade.android.demo/sa.jade.android.demo.iml" group="SocialAgent" />
+      <module fileurl="file://$PROJECT_DIR$/sa.service.example.hello/sa.service.example.hello.iml" filepath="$PROJECT_DIR$/sa.service.example.hello/sa.service.example.hello.iml" group="SocialAgent/examples" />
+      <module fileurl="file://$PROJECT_DIR$/sa.service.example.hello.test/sa.service.example.hello.test.iml" filepath="$PROJECT_DIR$/sa.service.example.hello.test/sa.service.example.hello.test.iml" group="SocialAgent/examples" />
+      <module fileurl="file://$PROJECT_DIR$/sa.service.example.translation/sa.service.example.translation.iml" filepath="$PROJECT_DIR$/sa.service.example.translation/sa.service.example.translation.iml" group="SocialAgent/examples" />
+      <module fileurl="file://$PROJECT_DIR$/sa.service.gateway/sa.service.gateway.iml" filepath="$PROJECT_DIR$/sa.service.gateway/sa.service.gateway.iml" group="SocialAgent/framework" />
+      <module fileurl="file://$PROJECT_DIR$/sa.service.heartbeat/sa.service.heartbeat.iml" filepath="$PROJECT_DIR$/sa.service.heartbeat/sa.service.heartbeat.iml" group="SocialAgent/framework" />
+      <module fileurl="file://$PROJECT_DIR$/sa.service.manager/sa.service.manager.iml" filepath="$PROJECT_DIR$/sa.service.manager/sa.service.manager.iml" group="SocialAgent/framework" />
+      <module fileurl="file://$PROJECT_DIR$/sa.service.resolution/sa.service.resolution.iml" filepath="$PROJECT_DIR$/sa.service.resolution/sa.service.resolution.iml" group="SocialAgent/framework" />
+      <module fileurl="file://$PROJECT_DIR$/sa.service.rsi.dispatcher/sa.service.rsi.dispatcher.iml" filepath="$PROJECT_DIR$/sa.service.rsi.dispatcher/sa.service.rsi.dispatcher.iml" group="SocialAgent/framework" />
+      <module fileurl="file://$PROJECT_DIR$/sa.service.worker/sa.service.worker.iml" filepath="$PROJECT_DIR$/sa.service.worker/sa.service.worker.iml" group="SocialAgent/framework" />
+      <module fileurl="file://$PROJECT_DIR$/sa.xjade/sa.xjade.iml" filepath="$PROJECT_DIR$/sa.xjade/sa.xjade.iml" group="SocialAgent/framework" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">social invoker</string>
+    <string name="host">10.131.252.41</string>
+    <string name="port">1099</string>
+    <string name="msisdn">socialagent</string>
+    <string name="gateway_connected_ticker">Gateway Connected</string>
+    <string name="gateway_connection">Gateway Connection</string>
+    <string name="gateway_connected">Connected to Gateway Service</string>
+    <string name="gateway_disconnected">Disconnected to Gateway Service</string>
+    <string name="gateway_disconnected_ticker">Gateway Disconnected</string>
+
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+
+</resources>
